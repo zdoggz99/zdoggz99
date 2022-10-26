@@ -11,7 +11,7 @@
 - :seedling: I’m currently learning React
 - :speech_balloon: Ask me about **HTML && CSS**
 - :mailbox: How to reach me **zackdull1999@gmail.com**
-- :page_facing_up: Know about my experiences <a href="linktocv" target="blank">Resume</a>
+- :page_facing_up: Know about my experiences -> <a href="" target="blank">Resume</a>
 
 <br/>
 
