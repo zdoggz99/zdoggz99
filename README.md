@@ -7,7 +7,6 @@
 
 - :telescope: I’m currently open for positions
 - :seedling: I’m currently working on expanding my knowledge and programming skills
-- :handshake: I’m available for freelancing.
 - :seedling: I’m currently learning React
 - :speech_balloon: Ask me about **HTML && CSS**
 - :mailbox: How to reach me **zackdull1999@gmail.com**
